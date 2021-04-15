@@ -1,5 +1,5 @@
 {
-  "name": "jsbloom",
+  "name": "@duckduckgo/jsbloom",
   "version": "1.0.2",
   "description": "a fast javascript counting bloom filter implementation",
   "main": "bloom.js",
